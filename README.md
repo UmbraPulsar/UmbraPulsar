@@ -26,7 +26,7 @@ I'm a professional web developer with 4 years of experience building SPA applica
 ## Things i'm really good at
 - Problem Solving
 
-Work Experience
+## Work Experience
 - No relative job experience.
 
 
