@@ -8,6 +8,9 @@
 I'm a professional web developer with 4 years of experience building SPA applications with the React frame work who has esoteric knowledge in Javascript.
 
 ## Projects
+Github: https://github.com/UmbraPulsar/space-travel
+Live: https://space-travel-orcin.vercel.app/
+
 
 ## Things I'm practicing
 - Html5
