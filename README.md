@@ -3,8 +3,6 @@
 
 # About Me
 
-###### Hi, i'm Dallas
-
 I'm a professional web developer with 4 years of experience building SPA applications with the React frame work who has esoteric knowledge in Javascript.
 
 ## Projects
