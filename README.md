@@ -33,9 +33,6 @@ Live:https://umbrapulsar.github.io/entertainment-app/
 ## Things i'm really good at
 - Problem Solving
 
-## Work Experience
-- No relative job experience.
-
 ## A little more about me
 I love mathematics, physics, and chemistry. Know what, it's better to just group my interests uner the Umbrella of Science. I love to learn about all the little building blocks that mathematical, physical, chemical, and biological processes that literally get us through the day. I think one of the most facinating things i've learned were the laws of thermodynamics and how it's the basis for everything in existance, from the biggest structures in the observable universe to the smallest elementary particle (which is the Electron, fun fact the electron is estimated to be 9.109389 * 10^-31 mass. Which is at least very^31 light). 
 <!---
