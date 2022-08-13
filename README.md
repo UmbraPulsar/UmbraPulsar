@@ -12,7 +12,11 @@ Live: https://space-travel-orcin.vercel.app/
 
 ### Entertainment App
 Github: https://github.com/UmbraPulsar/entertainment-app
-Live:https://umbrapulsar.github.io/entertainment-app/
+Live: https://umbrapulsar.github.io/entertainment-app/
+
+### Space X Clone
+Github: https://github.com/UmbraPulsar/spacex-clone
+Live: https://spacex-clone-orpin.vercel.app/
 
 ## Things I'm practicing
 - Html5
@@ -22,10 +26,8 @@ Live:https://umbrapulsar.github.io/entertainment-app/
 - CSS
 - React Native
 - Node.js
-- Python
 
 ## Things I'm Good at
-- Html5
 - React
 - Next.js
 - Javascript
