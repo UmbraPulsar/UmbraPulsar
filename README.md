@@ -6,16 +6,21 @@
 I'm a professional web developer with 4 years of experience building SPA applications with the React frame work who has esoteric knowledge in Javascript.
 
 ## Projects
+
+### Lyriks Site
+Repo: https://github.com/UmbraPulsar/lyriks
+Live: https://astonishing-brigadeiros-7c6995.netlify.app/
+
 ### Space Travel Site
-Github: https://github.com/UmbraPulsar/space-travel
+Repo: https://github.com/UmbraPulsar/space-travel
 Live: https://space-travel-orcin.vercel.app/
 
 ### Entertainment App
-Github: https://github.com/UmbraPulsar/entertainment-app
+Repo: https://github.com/UmbraPulsar/entertainment-app
 Live: https://umbrapulsar.github.io/entertainment-app/
 
 ### Space X Clone
-Github: https://github.com/UmbraPulsar/spacex-clone
+Repo: https://github.com/UmbraPulsar/spacex-clone
 Live: https://spacex-clone-orpin.vercel.app/
 
 ## Things I'm practicing
